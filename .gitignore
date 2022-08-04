@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+study.html
+images/Barbershop (myEN)-jpg.zip
+*.zip
+zips/Barbershop (myEN)-portfolio/Rectangle 25.jpg
+zips/Barbershop (myEN)-portfolio/Rectangle 26.jpg
+zips/Barbershop (myEN)-portfolio/Rectangle 27.jpg
+zips/Barbershop (myEN)-portfolio/Rectangle 28.jpg
+images/meadow-flowers-and-ladybug.jpg
+css/study.css
